@@ -2,6 +2,7 @@
 
 # Copyright (c) 2011 John Reese
 # Licensed under the MIT license
+# S&G Asset managemtn test
 
 class ScrumPlugin extends MantisPlugin
 {
